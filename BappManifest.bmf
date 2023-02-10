@@ -1,0 +1,12 @@
+Uuid: 7b0bccad2b6e85382fed83c3fa84392f 
+ExtensionType: 1
+Name: Copy Requests and Responses
+RepoName: BurpCopyRequestAndResponses
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Bryan C. Geraghty
+ShortDescription: This extension copies the selected request(s) and response(s) and applies markdown annotation.
+EntryPoint: build/libs/copy-requests-and-responses-all.jar 
+BuildCommand: gradle fatJar
