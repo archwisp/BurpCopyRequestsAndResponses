@@ -16,7 +16,7 @@ $ gradle fatJar
 ```
 
 ### Burp Suite import
-In Burp Suite, under the `Extender/Options` tab, click on the `Add` button and load the `copy-requests-and-responses-all.jar` file located in the `build/libs` folder.
+In Burp Suite, under the `Extender/Options` tab, click on the `Add` button and load the `BurpCopyRequestsAndResponses-all.jar` file located in the `build/libs` folder.
 
 ## Credits
 I used the `copy as curl command` plugin as a starting point for developing this one.
